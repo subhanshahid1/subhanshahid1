@@ -1,4 +1,4 @@
-# Hi, I'm Subhan Shahid 👋
+# Hi, I'm Subhan Shahid 
 
 **Full Stack Developer | Problem Solver | ADSE @ Aptech**
 
@@ -37,7 +37,7 @@ Currently strengthening my foundation in full stack development and software eng
 
 ## 📫 Connect With Me
 
-- LinkedIn: (https://www.linkedin.com/in/subhan-shahid-3688ba3b3/)  
+- LinkedIn: https://www.linkedin.com/in/subhan-shahid-3688ba3b3
 - Email: subhanshahid.pk1@gmail.com 
 
 ---
