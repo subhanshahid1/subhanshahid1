@@ -20,9 +20,9 @@ Currently strengthening my foundation in full stack development and software eng
 
 ## 📌 Featured Projects
 
-- 🔹 **Digital Theatre** – A front-end web project built with HTML, CSS and JavaScript that simulates a cinema booking website interface, including movie sections, show details and responsive design. This was my first complete website project and helped me build a strong foundation in web development fundamentals. 
-- 🔹 **Project Name** – Key technologies used and main functionality.  
-- 🔹 **Project Name** – Short explanation of impact or purpose.  
+-  **Digital Theatre** – A front-end web project built with HTML, CSS and JavaScript that simulates a cinema booking website interface, including movie sections, show details and responsive design. This was my first complete website project and helped me build a strong foundation in web development fundamentals. 
+-  **Project Name** – Key technologies used and main functionality.  
+-  **Project Name** – Short explanation of impact or purpose.  
 
 ---
 
